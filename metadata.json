@@ -1,0 +1,7 @@
+{
+  "name": "FireGuard Pro - Vistoria Técnica",
+  "description": "Aplicativo profissional para bombeiros realizarem vistorias técnicas em estabelecimentos comerciais, com checklist inteligente, registro fotográfico e geração de relatórios via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
